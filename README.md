@@ -77,10 +77,3 @@ Contributions are welcome! To contribute:
 2. Create a new branch (`feature-branch`).
 3. Commit changes and push to your fork.
 4. Open a pull request.
-
-## Contact
-**Harsh Guleria**  
-- GitHub: https://github.com/Harsz06   
-- LinkedIn: https://www.linkedin.com/in/guleria-harsh
-- X: https://x.com/harsz_06
-
